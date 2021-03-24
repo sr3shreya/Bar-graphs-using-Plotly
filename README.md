@@ -1,3 +1,3 @@
-# Bar-graphs-using-Plotly
-Data Analysis and Visualization as using Plotly & Pandas
+# Data Analysis and Visualization using Plotly & Pandas
+Generating Bar Graphs using Plotly
 The code is under development, will be completing it soon
